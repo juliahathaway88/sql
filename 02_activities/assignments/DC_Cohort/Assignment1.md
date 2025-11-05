@@ -205,5 +205,7 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+I found the article quite informative. In my day-to-day life, I encounter value systems embedded in data systems designed to chose candidates to receive awards, scholarships, jobs, etc. These decisions hold implications for my future. For major scholarships given out by the Government of Ontario or Canada, there are key words application intake programs use to weed out candidates. These key words could be based on any number of metrics such as gender, residency status, or personal experience. There is great potential for systemic unfairness and inequality in these systems because the metrics for acceptence can be adjusted by individuals without consequence.
+
+I also recently had an interesting encounter at RBC where my partner and I tried to increse our credit limit. The short of the story is that the person helping us could not complete an application for a credit increase because the system did not recognize University stipends as income. There was no way for this individual to bypass the pre-set requirements. 
 ```
