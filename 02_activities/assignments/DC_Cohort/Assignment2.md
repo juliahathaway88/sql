@@ -187,5 +187,7 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+An issue that stands out to me that is important to this story is that AI is entirely informed by human input and property, and there is rarely consent when information, art, ideas, data, etc. are redistributed through AI platforms. This is also intertwined with labor issues as described in the article. A lot of data used today was produced by people potentially decades ago that do not get credit or compensation for their labor.
+
+Bias is also an ethical issue important to this story. There are problems when people are given the power to label others and those labels are then used in decision making processes. 
 ```
