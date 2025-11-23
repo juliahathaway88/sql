@@ -54,7 +54,11 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+1. Type 1 SCD
+This table is designed to overwrite existing data with new information each time the customer address is updated. The columns in this table will include customer_first_name, customer_last_name, number_and_street_name, city, province, area_code, country, date_last_updated. The date_last_updated column will show when the last changes were made to the customer information. With this table architecture, CUSTOMER_ADDRESS will only have one row entry.
+
+2. Type 2 SCD
+This table is designed to preserve data history by adding a new row everytime the customer address is updated. The columns in this table will include entry_number, customer_first_name, customer_last_name, number_and_street_name, city, province, area_code, country, entry_date, entry_time. With this table architecture, CUSTOMER_ADDRESS can have many row entries.
 ```
 
 ***
@@ -183,5 +187,7 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+An issue that stands out to me that is important to this story is that AI is entirely informed by human input and property, and there is rarely consent when information, art, ideas, data, etc. are redistributed through AI platforms. This is also intertwined with labor issues as described in the article. A lot of data used today was produced by people potentially decades ago that do not get credit or compensation for their labor.
+
+Bias is also an ethical issue important to this story. There are problems when people are given the power to label others and those labels are then used in decision making processes. 
 ```
